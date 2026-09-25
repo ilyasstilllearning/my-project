@@ -1,0 +1,1 @@
+print ("disuruh bang natan")
